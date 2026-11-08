@@ -36,8 +36,8 @@ Early and accurate differentiation between malignant and benign breast masses is
 ---
 
 ### c. Links (GitHub Repository & Live Streamlit App)
-- **GitHub Repository Link**: `<INSERT_YOUR_GITHUB_REPO_LINK_HERE>`
-- **Live Streamlit App Link**: `<INSERT_YOUR_STREAMLIT_APP_LINK_HERE>`
+- **GitHub Repository Link**: https://github.com/V1shwanath/ml-assignment-2
+- **Live Streamlit App Link**: *(Deployed via Streamlit Community Cloud from `app.py`)*
 
 #### Repository Structure
 ```text
