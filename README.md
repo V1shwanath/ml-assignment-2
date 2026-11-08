@@ -1,6 +1,16 @@
 # M.Tech (AIML) — Machine Learning Assignment 2
 ## End-to-End Breast Cancer Diagnostic Classification & Streamlit Deployment
 
+- **Student Name**: Vishwanath Jammalamadaka
+- **BITS ID**: 2026AJ05784
+- **Course**: M.Tech (AIML) — Machine Learning
+
+---
+
+### Mandatory Submission Links
+1. **GitHub Repository Link**: [https://github.com/V1shwanath/ml-assignment-2](https://github.com/V1shwanath/ml-assignment-2)
+2. **Live Streamlit App Link**: [https://ml-assignment-2-hv7zr5jgle7ypjcehfjhde.streamlit.app/](https://ml-assignment-2-hv7zr5jgle7ypjcehfjhde.streamlit.app/)
+
 ---
 
 ### a. Problem Statement
@@ -35,11 +45,10 @@ Early and accurate differentiation between malignant and benign breast masses is
 
 ---
 
-### c. Links (GitHub Repository & Live Streamlit App)
-- **GitHub Repository Link**: https://github.com/V1shwanath/ml-assignment-2
-- **Live Streamlit App Link**: *(Deployed via Streamlit Community Cloud from `app.py`)*
+### c. GitHub Repository Link & Structure
+- **GitHub Repository Link**: [https://github.com/V1shwanath/ml-assignment-2](https://github.com/V1shwanath/ml-assignment-2)
+- **Live Streamlit App Link**: [https://ml-assignment-2-hv7zr5jgle7ypjcehfjhde.streamlit.app/](https://ml-assignment-2-hv7zr5jgle7ypjcehfjhde.streamlit.app/)
 
-#### Repository Structure
 ```text
 project-folder/
 │-- app.py                      # Interactive Streamlit web application
